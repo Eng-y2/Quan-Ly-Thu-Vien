@@ -1,6 +1,6 @@
 public class Book {
     private String maSach;
-    private String tenSach;
+    private String tenSach; // Phien ban FEATURE
     private String tacGia;
 
     public Book(String maSach, String tenSach, String tacGia) {
